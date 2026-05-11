@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_URL = "http://localhost:8000"
+API_URL = "https://resiliencelens-api3.jollyriver-33d3f101.eastasia.azurecontainerapps.io"
 
 st.set_page_config(
     page_title="ResilienceLens Scrum Board",
